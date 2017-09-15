@@ -1,4 +1,5 @@
 MANIFEST.in
+flaskr/__init__.py
 flaskr/flaskr.py
 flaskr/schema.sql
 flaskr.egg-info/PKG-INFO
